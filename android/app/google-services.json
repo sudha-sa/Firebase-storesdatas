@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26772923162",
+    "project_id": "fir-stores-4f8a5",
+    "storage_bucket": "fir-stores-4f8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26772923162:android:2c7b65015b53fdac79c2a3",
+        "android_client_info": {
+          "package_name": "com.firebasestores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ9YJ8ceQYkEUWpkV3YAIYrPPdC2jjAYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
